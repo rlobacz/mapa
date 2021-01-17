@@ -139,7 +139,7 @@ def load_geojson():
 # In[65]:
 
 
-st.title("Prices of properties in warsaw district per sqm")
+st.title("Apartments prices in Warsaw districts in pln per square meter")
 
 
 # In[10]:
