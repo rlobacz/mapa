@@ -7,4 +7,4 @@ Application works in the following way:
 2. Tidying data
 3. Creating database
 4. Ploting queried data using Plotly
-5. Wrapping everythinh up using Streamlit
+5. Wrapping everything up using Streamlit
